@@ -11,6 +11,12 @@
 - [x] cv2
 - [x] cv3
 - [x] cv4
+- [ ] cv5
+- [ ] cv6
+- [ ] cv7
+- [ ] cv8
+- [ ] cv9
+- [ ] cv10
 
 ## Issues
 
