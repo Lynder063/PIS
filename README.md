@@ -19,7 +19,7 @@
 - [ ] cv10
 - [ ] cv11
 - [ ] cv12
-- [x] Seminar work
+- [x] Seminar work (42/50 points)
 ## Issues
 
 Feel free to submit issues and enhancement requests or contact me on Discord `lynder063`
