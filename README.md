@@ -17,7 +17,9 @@
 - [ ] cv8
 - [ ] cv9
 - [ ] cv10
-
+- [ ] cv11
+- [ ] cv12
+- [x] Seminar work
 ## Issues
 
 Feel free to submit issues and enhancement requests or contact me on Discord `lynder063`
