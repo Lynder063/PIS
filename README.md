@@ -1,5 +1,4 @@
 # Enterprise Information Systems 2024
-
 ## Created by Kryštof Malinda
 
 ## Status of exercises
@@ -15,7 +14,7 @@
 - [x] cv6
 - [x] cv7
 - [x] cv8
-- [ ] cv9
+- [x] cv9
 - [ ] cv10
 - [ ] cv11
 - [ ] cv12
