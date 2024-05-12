@@ -1,7 +1,4 @@
-# Enterprise Information Systems 2024
-## Created by Kryštof Malinda
-
-## Status of exercises
+# Enterprise Information Systems 2024 ## Created by Kryštof Malinda ## Status of exercises
 
 > [!NOTE]
 > All exercises can be found in adequate folders in this rep!
@@ -15,9 +12,9 @@
 - [x] cv7
 - [x] cv8
 - [x] cv9
-- [ ] cv10
-- [ ] cv11
-- [ ] cv12
+- [x] cv10
+- [x] cv11
+- [x] cv12
 - [x] Seminar work (42/50 points)
 ## Issues
 
